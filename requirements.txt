@@ -1,0 +1,7 @@
+customtkinter
+requests
+maxminddb
+pyopenssl
+cryptography
+packaging
+pyperclip
